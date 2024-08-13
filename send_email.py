@@ -90,5 +90,4 @@ print("E-posta başarıyla gönderildi.")
 os.remove(dosya_yolu)
 for photo in photos:
     os.remove(photo)
-print("Fotoğraflar ve dosya başarıyla silindi.")
 
